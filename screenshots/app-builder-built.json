@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Gatewalkers",
+      "hasCanvas": false,
+      "bodyTextLen": 1294,
+      "bodyTextHash": "14634904042dfd6810847653106d3b00bbe8155328b8cf7267397ce9cbaa1b2a",
+      "bodyTextPrefix": "ASSOCIATION FORGE Gatewalkers Same stickman body. Positions, ran",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Gatewalkers",
+      "hasCanvas": false,
+      "bodyTextLen": 1207,
+      "bodyTextHash": "a6b723c3666b1785cd9f24d3593db8fb36470b26d1fc120e35c55e811333eb7b",
+      "bodyTextPrefix": "ASSOCIATION FORGE Gatewalkers ROSTER 11 climbers Ashen Rookie Sh",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
